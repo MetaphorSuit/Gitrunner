@@ -18,11 +18,12 @@ Votre cible : mettre leur solde **Eurodollars** à **0** dans les trois fichiers
 
 ## Consignes
 
-1. **Cloner** le dépôt compromis
-2. Créer une branche avec le nom de votre équipe (`runners-alpha`)
-3. Modifier **uniquement** la ligne `eurodollars` dans le frontmatter YAML de chaque fichier. Passer la valeur à `0`
-4. **Add**, **commit** et **push**
-5. Ouvrir une **Pull Request** vers `main`
+1. **Créer un Fork** du dépôt compromis
+2. **Cloner** le repo sur votre cyberware pour modifier les fichiers
+3. Créer une branche avec le nom de votre équipe (`runners-XXX`)
+4. Modifier **uniquement** la ligne `eurodollars` dans le frontmatter YAML de chaque fichier. Passer la valeur à `0`
+5. **Add**, **commit** et **push**
+6. Ouvrir une **Pull Request** vers `main`
 
 **Attention** : toute modification d'un autre champ (nom, corporation, statut) invalide le contrat.
 
