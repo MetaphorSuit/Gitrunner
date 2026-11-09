@@ -11,12 +11,14 @@
             "id": "ed581f931a47026c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Atelier gitrunner.pdf"
+                "file": "compte-kangtao.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Atelier gitrunner"
+              "icon": "lucide-file",
+              "title": "compte-kangtao"
             }
           }
         ]
@@ -188,6 +190,14 @@
   },
   "active": "ed581f931a47026c",
   "lastOpenFiles": [
+    "Gitrunner/dumdum-profile.png",
+    "Gitrunner/compte-militech.md",
+    "Gitrunner/compte-kangtao.md",
+    "Gitrunner/compte-arasaka.md",
+    "Gitrunner/README.md",
+    "Gitrunner/Atelier gitrunner.pdf",
+    "Gitrunner",
+    "Atelier gitrunner.pdf",
     "compte-militech.md",
     "compte-kangtao.md",
     "compte-arasaka.md"
