@@ -2,7 +2,7 @@
 nom: Lu Ting
 corporation: Kang Tao
 compte: ZH-002-KT-2077
-eurodollars: 1209843750000
+eurodollars: 0
 statut: actif
 ---
 
