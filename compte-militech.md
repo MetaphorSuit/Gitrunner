@@ -2,7 +2,7 @@
 nom: Samantha Cole
 corporation: Militech
 compte: CH-001-MT-2077
-eurodollars: 894723006712
+eurodollars: 0
 statut: actif
 ---
 

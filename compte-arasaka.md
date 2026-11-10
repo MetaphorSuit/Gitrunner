@@ -2,7 +2,7 @@
 nom: Hanako Arasaka
 corporation: Arasaka
 compte: JP-003-AR-2077
-eurodollars: 6750000000000
+eurodollars: 0
 statut: actif
 ---
 
